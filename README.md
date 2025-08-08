@@ -14,7 +14,8 @@ Ceci est mon tout premier projet d'analyse de données via Python, je l'ai réal
 
 Ouvrez le fichier `01_EDA.ipynb` avec Jupyter Lab ou Google Colab :
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Pierre-Alexandre-Gaudin/EDA-Project/blob/main/01_EDA.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Pierre-Alexandre-Gaudin/EDA-Project/blob/main/01_EDA.ipynb)
+
 
 ## Bibliothèques utilisées
 
